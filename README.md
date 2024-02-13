@@ -1,2 +1,2 @@
 # My-Take-On-LeetCode
-My Answer on LeetCode's Problems (Weekly Update)
+Hi all, welcome to my repository. I will try to answer as many LeetCode problems as I can.
